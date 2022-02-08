@@ -1,0 +1,101 @@
+.own-header img{
+    width: 90px;
+}
+.own-header ul li a{
+    margin-left: 20px;
+}
+/* slider section */
+.custom-btn {
+    background: #8490FF;
+    border: none;
+}
+.custom-btn:hover{
+    background: #8490FF;
+}
+/* program section */
+.program-section{
+    padding: 65px 0;
+    background-color: #8490FF;
+}
+/* pricing section */
+.pricing-item {
+	background: #fff;
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+	padding: 20px 0;
+}
+.pricing-text h1 {
+	/* font-size: 50px; */
+}
+.pricing-text p {
+	font-size: 18px;
+	color: #111;
+}
+.pricing-item span {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.pricing-item h6{
+    font-size: 17px;
+    margin-top: 6px;
+}
+.pricing-item p {
+    font-size: 16px;
+    margin-bottom: 22px;
+}
+.pricing-serial ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.pricing-serial ul li {
+	font-size: 18px;
+	color: #777;
+	margin-bottom: 20px;
+}
+.pricing-serial ul li span {
+	color: #5D73DE;
+	width: 40px;
+    display: inline-block;
+}
+.button{
+    margin-top: 40px;
+}
+.button .btn {
+	margin-bottom: .5rem !important;
+	color: #8490FF;
+    border: 1px solid #8490FF;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+/* Opinion section */
+.opinion-section{
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+.opinion-item img {
+    width: 80px;
+    margin-top: -55px;
+    margin-left: 15px;
+}
+.card-body h5{
+    font-size: 22px;
+}
+.card-body h6{
+    color: #777;
+}
+.card-body p{
+    color: #777;
+}
+/* Contact section */
+.contact-text h5 {
+    margin-left: 30px;
+    margin-top: 65px;
+}
+.contact-text ul{
+    list-style: none;
+}
+.contact-text ul li{
+}
